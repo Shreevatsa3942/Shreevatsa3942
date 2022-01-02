@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreevatsa3942
-- 👀 I’m interested in Coding, Web development
+- 👀 I’m interested in Coding, Web development, BigData Analytics, Machine Learning and AI
 - 🌱 I’m currently learning MCA at MIT, Manipal
 - 📫 How to reach me -
 -Gmail: sbalthillaya584@gmail.com
